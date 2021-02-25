@@ -1,0 +1,25 @@
+            <div class="col"><input type="checkbox" id ="b1"></div>
+            <div class="col"><input type="checkbox" id ="b2"></div>
+            <div class="col"><input type="checkbox" id ="b3"></div>
+            <div class="col"><input type="checkbox" id ="b4"></div>
+            <div class="col" style="width: 90px;"></div>
+            <div class="col"><input type="checkbox" id ="b5"></div>
+            <div class="col"><input type="checkbox" id ="b6"></div>
+            <div class="col"><input type="checkbox" id ="b7"></div>
+            <div class="col"><input type="checkbox" id ="b8"></div>
+            <div class="col"><input type="checkbox" id ="b9"></div>
+            <div class="col"><input type="checkbox" id ="b10"></div>
+            <div class="col"><input type="checkbox" id ="b11"></div>
+            <div class="col"><input type="checkbox" id ="b12"></div>
+            <div class="col"><input type="checkbox" id ="b13"></div>
+            <div class="col"><input type="checkbox" id ="b14"></div>
+            <div class="col"><input type="checkbox" id ="b15"></div>
+            <div class="col"><input type="checkbox" id ="b16"></div>
+            <div class="col"><input type="checkbox" id ="b17"></div>
+            <div class="col"><input type="checkbox" id ="b18"></div>
+            <div class="col" style="width: 90px;"></div>
+            <div class="col"><input type="checkbox" id ="b19"></div>
+            <div class="col"><input type="checkbox" id ="b20"></div>
+            <div class="col"><input type="checkbox" id ="b21"></div>
+            <div class="col"><input type="checkbox" id ="b22"></div>
+            <div class="col"></div>
