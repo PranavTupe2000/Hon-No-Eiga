@@ -1,0 +1,18 @@
+---
+application:
+  name: "hon-no-eiga"
+  project: "Test"
+  organization: "QoveryCommunity"
+databases:
+- type: "MONGODB"
+  name: "hon_no_eiga"
+  version: "4.4"
+- type: "MYSQL"
+  name: "hon_no_eiga"
+  version: "8.0"
+routers:
+- name: "main-hon-no-eiga"
+  routes:
+  - application_name: "hon-no-eiga"
+    paths:
+    - "/*"
